@@ -1,0 +1,20 @@
+body{
+    background-color: goldenrod;
+}
+
+.cont{
+    border: 2px solid rgba(129, 59, 59, 0.265);
+    display: flex;
+    
+    justify-content: space-around;
+}
+
+.div-list {
+    border: dashed 2px royalblue;
+    width: 25%;
+}
+
+h2{
+    text-align: center;
+    font-size: 24px;
+}
