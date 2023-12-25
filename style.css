@@ -31,8 +31,8 @@ p{
 
 .div-list {
     border: dashed 2px yellow;
-    width: 310px;
-    height: 375px;
+    width: 380px;
+    height: 450px;
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 24px;
@@ -66,12 +66,13 @@ h2{
 }
 
 a{
-color: yellow;
+color: brown;
 }
 
 a:hover {
     font-size: 30px;
-    color: brown;
+    color: yellow;
+    
     transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
