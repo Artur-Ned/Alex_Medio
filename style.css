@@ -38,6 +38,11 @@ p{
     font-size: 24px;
 }
 
+.tree {
+    background-image: url(img/el.jpg);
+        background-size: cover;
+}
+
 .one    {
     background-image: url(img/2.jpg);
     background-size: cover;
@@ -87,4 +92,18 @@ height: 100px;
 img{
     max-width: 100%;
     height: auto;
+}
+
+span{
+    color: yellow;
+    font-size: 48px;
+    
+}
+
+
+span.an {
+    color: rgb(0, 42, 255);
+    font-size: 24px;
+    background-color: azure;
+     
 }
